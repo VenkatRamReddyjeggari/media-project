@@ -41,3 +41,28 @@ nav.circle {
     color: #315ff5;
     box-shadow: 0 5px 10px rgba(255, 26, 26 ,0.22);
 }
+.song-img{
+    width: 220px;
+    border-radius: 50%;
+    border: 8px solid black;
+    box-shadow: 0 10px 60px rgba(225,26,26 ,0.22);
+}
+.musich1{
+    font-size: 20px;
+    font-weight: 400;
+    color:white ;
+    margin-top: 7px;
+
+}
+.musicp1{
+    font-size: 14px;
+    color: white;
+}
+#progress{
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    background: #f;
+
+
+}
